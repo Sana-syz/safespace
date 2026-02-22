@@ -2,70 +2,73 @@
   <img src="./img.png" alt="Project Banner" width="100%">
 </p>
 
-# [Project Name] 🎯
+# [SAFESPACE] 🎯
 
 ## Basic Details
 
-### Team Name: [Name]
+### Team Name: [RakshaX]
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
+- Member 1: [Sana Parveen V V] - [TOC H INSTITUTE OF SCIENCE AND TECHNOLOGY]
+- Member 2: [Hiba Fathima A S] - [TOC H INSTITUTE OF SCIENCE AND TECHNOLOGY]
 
 ### Hosted Project Link
-[mention your project hosted link here]
+(https://github.com/Sana-syz/safespace/edit/clean-main/README.md)
 
 ### Project Description
-[2-3 lines about what your project does]
 
-### The Problem statement
-[What problem are you solving?]
+A safety webapp with emergency alerts, fake call simulation, and premium UI/UX design. SafeSpace empowers users to trigger SMS, email, and voice call alerts to trusted contacts during emergencies, while also providing a fake call feature for immediate reassurance.
 
-### The Solution
-[How are you solving it?]
 
----
+
+### Problem Statement
+In critical situations, people often lack a quick, reliable way to notify trusted contacts or simulate urgent calls for safety. Existing solutions are either too complex or not emotionally reassuring.
+
+
+
+### Solution
+SafeSpace provides a one‑tap emergency workflow:
+- Sends SMS, email, and automated voice calls via backend integration.
+- Simulates fake calls with ringtone + spoken alert message.
+- Offers premium UI/UX with dark mode, glowing buttons, and dynamic feedback.
+
+
 
 ## Technical Details
 
 ### Technologies/Components Used
 
-**For Software:**
-- Languages used: [e.g., JavaScript, Python, Java]
-- Frameworks used: [e.g., React, Django, Spring Boot]
-- Libraries used: [e.g., axios, pandas, JUnit]
-- Tools used: [e.g., VS Code, Git, Docker]
+**Software**
+- Languages: JavaScript (ES6+)
+- Frameworks: React.js (frontend), Node.js + Express (backend)
+- Libraries: Axios, Twilio, EmailJS
+- Tools: VS Code, Git, Netlify/Vercel (frontend hosting), Render/Railway (backend hosting)
 
-**For Hardware:**
-- Main components: [List main components]
-- Specifications: [Technical specifications]
-- Tools required: [List tools needed]
+**Hardware**
+- None required — runs on any modern browser/device.
 
----
 
 ## Features
+- Feature 1: Emergency Alert Trigger
+One‑tap button that sends SMS, email, and automated voice calls to trusted contacts via backend integration.
+- Feature 2: Fake Call Simulation
+A modal popup with ringtone and spoken alert message to simulate urgent calls, providing immediate reassurance.
+- Feature 3: Premium UI/UX Design
+Dark mode interface with glowing buttons, animated pulse effects, icons, and dynamic feedback for a professional, life‑saving vibe.
+- Feature 4: Secure Credential Management
+Environment variables for Twilio and EmailJS keys, ensuring safe backend automation and scalable deployment.
 
-List the key features of your project:
-- Feature 1: [Description]
-- Feature 2: [Description]
-- Feature 3: [Description]
-- Feature 4: [Description]
-
----
 
 ## Implementation
 
-### For Software:
-
-#### Installation
+### Installation
 ```bash
-[Installation commands - e.g., npm install, pip install -r requirements.txt]
-```
+# Clone the repo
+git clone https://github.com/Sana-syz/safespace.git
+cd safespace
 
-#### Run
-```bash
-[Run commands - e.g., npm start, python app.py]
-```
+# Install dependencies
+npm install
 
 ### For Hardware:
 
@@ -137,7 +140,7 @@ List the key features of your project:
 
 #### API Documentation
 
-**Base URL:** `https://api.yourproject.com`
+**Base URL:** `https://github.com/Sana-syz/safespace.git`
 
 ##### Endpoints
 
@@ -361,7 +364,7 @@ python script.py -v --format json data.json
 ## Project Demo
 
 ### Video
-[Add your demo video link here - YouTube, Google Drive, etc.]
+https://drive.google.com/file/d/1vcO611-yRRJyYX_KPIqRC3OuydTFuYvH/view?usp=drivesdk
 
 *Explain what the video demonstrates - key features, user flow, technical highlights*
 
