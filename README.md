@@ -86,14 +86,14 @@ npm install
 
 #### Screenshots (Add at least 3)
 
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+12.jpeg
+location sharing
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+12a.jpeg
+Emergency alert message to emergency emails ,sms and call to the emergency contacts
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+12b.jpeg
+Fake call
 
 #### Diagrams
 
